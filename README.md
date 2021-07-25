@@ -3,13 +3,12 @@
 
 ##Here is the list of Projects.
 
- - [Facebook User Data](http://github.com/S-V-Singh/MachineLearningUsingPython/tree/main/Facebook User Data:// "Facebook User Data")
- - Automobile
- - Finance
+ - [Facebook_User_Data](https://github.com/S-V-Singh/EDA/tree/main/Facebook%20User%20Data "Facebook_User_Data")
+ - [IMDB](https://github.com/S-V-Singh/EDA/tree/main/IMDB "IMDB")
  - Banking
  
-|Facebook User Data  |[![HealthCare](https://raw.githubusercontent.com/S-V-Singh/EDA-/main/Images/Facebook User Data.png "Facebook User Data")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Facebook User Data.jpeg "Facebook User Data")  |
+|Facebook_User_Data  |[![Facebook_User_Data](https://raw.githubusercontent.com/S-V-Singh/EDA/main/Images/facebook.jpeg "Facebook_User_Data")](https://raw.githubusercontent.com/S-V-Singh/EDA/main/Images/facebook.jpeg "Facebook_User_Data") |
 | :------------: | :------------: |
-|[![Automobile](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Automobile.jpeg "Automobile")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Automobile.jpeg "Automobile")   | Automobile  |
-|Finance  |[![Finance](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Stock.jpeg "Finance")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Stock.jpeg "Finance")    |
+|[![IMDB](https://raw.githubusercontent.com/S-V-Singh/EDA/main/Images/IMDB.JPEG "IMDB")](https://raw.githubusercontent.com/S-V-Singh/EDA/main/Images/IMDB.JPEG "IMDB")| IMDB  |
+|IPL  |[![IPL](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Stock.jpeg "IPL")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Stock.jpeg "IPL")    |
 |[![Banking](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Banking.png "Banking")](https://raw.githubusercontent.com/S-V-Singh/MachineLearningUsingPython/main/Images/Banking.png "Banking")   |Banking   |
